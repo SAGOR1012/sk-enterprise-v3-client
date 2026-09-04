@@ -1,0 +1,81 @@
+/* .dashboard-widget {
+  width: 400px;
+  padding: 20px;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.dashboard-title {
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.radial-progress-container {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 20px auto;
+}
+
+.circle-chart {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.circle-bg {
+  fill: none;
+  stroke: #eee;
+  stroke-width: 3.8;
+}
+
+.circle {
+  fill: none;
+  stroke-width: 8;
+  stroke-linecap: round;
+  transition: stroke-dasharray 0.5s, stroke-dashoffset 0.5s;
+}
+
+.percentage-text {
+  fill: #333;
+  font-size: 0.6em;
+  text-anchor: middle;
+  dominant-baseline: central;
+  transform: rotate(90deg);
+}
+
+.investor-list {
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+}
+
+.investor-card {
+  background: #f7f7f7;
+  padding: 10px;
+  border-radius: 8px;
+  width: 120px;
+}
+
+.investor-name {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.investor-amount {
+  margin-bottom: 10px;
+}
+
+.add-btn {
+  padding: 5px 10px;
+  font-size: 12px;
+  border: none;
+  border-radius: 6px;
+  background-color: #2196f3;
+  color: #fff;
+  cursor: pointer;
+} */

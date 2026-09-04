@@ -1,0 +1,10 @@
+.home-bg {
+  position: absolute;
+  inset: 0;
+  background-image: url('../../assets/bgimg2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: blur(8px);
+  z-index: 0;
+}
